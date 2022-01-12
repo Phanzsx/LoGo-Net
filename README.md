@@ -1,5 +1,5 @@
 # LoGo-Net
-This codes for the work "A Local and Global Feature Disentangled Network: Toward Classification of Benign-malignant Thyroid Nodules from Ultrasound Image".
+The codes are for the work "A Local and Global Feature Disentangled Network: Toward Classification of Benign-malignant Thyroid Nodules from Ultrasound Image" and are also available for download on our homepage https://www.neuro.uestc.edu.cn/vccl/home.html.
 
 ## Introduction
 In this study, inspired by the domain knowledge of sonographers when diagnosing ultrasound images, a local and global feature disentangled network (LoGo-Net) is proposed to classify benign and malignant thyroid nodules. This model imitates the dual-pathway structure of human vision and establishes a new feature extraction method to improve the recognition performance of nodules. We use the tissue-anatomy disentangled (TAD) block to connect the dual pathways, which decouples the clues of local and global features based on the self-attention mechanism.
