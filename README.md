@@ -12,7 +12,7 @@ In this study, inspired by the domain knowledge of sonographers when diagnosing 
 
 ## Pre-requirements
 The codebase is tested on the following setting.
-* Python>=3.8
+* Python>=3.7
 * PyTorch>=1.6.0
 * torchvision>=0.7
 
