@@ -30,8 +30,8 @@ If you use this codes in your research, please cite the paper:
   journal={IEEE Transactions on Medical Imaging}, 
   title={A Local and Global Feature Disentangled Network: Toward Classification of Benign-malignant Thyroid Nodules from Ultrasound Image}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={4},
+  number={6},
+  pages={1497--1509},
   doi={10.1109/TMI.2022.3140797}}
 ```
